@@ -1,0 +1,26 @@
+[
+   {
+      "title":"Pala Padel",
+      "price":149990,
+      "thumbnail":"padel.jpg",
+      "id":1
+   },
+   {
+      "title":"Raqueta Tenis",
+      "price":329990,
+      "thumbnail":"raqueta.jpg",
+      "id":2
+   },
+   {
+      "title":"Pelota futbol",
+      "price":39990,
+      "thumbnail":"futbol.jpg",
+      "id":3
+   },
+   {
+      "title":"Casco",
+      "price":89990,
+      "thumbnail":"casco.jpg",
+      "id":4
+   }
+]
